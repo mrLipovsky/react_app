@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=SqcY0GlETPk
+
+cd to folder 
+write: npm create vite@4.1.0
+press: y
+project name: XXX
+select: react 
+select: typescript / javascript 
+
+cd project name XXX
+write: npm install
+open VS code 
+terminal> 
+write: npm run dev to run server 
+
+
+
