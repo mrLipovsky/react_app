@@ -10,8 +10,6 @@ select: typescript / javascript
 cd project name XXX
 write: npm install
 open VS code 
-terminal> 
-write: npm run dev to run server 
-
-
+In terminal 
+- to run server / write: npm run dev 
 
